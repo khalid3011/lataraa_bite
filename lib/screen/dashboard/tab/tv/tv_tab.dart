@@ -1,4 +1,4 @@
-import 'package:movie_house/export/export.dart';
+import 'package:lataraa_bite/export/export.dart';
 
 import 'tv_airing_today.dart';
 import 'tv_genre_section.dart';

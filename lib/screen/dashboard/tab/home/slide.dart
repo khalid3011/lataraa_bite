@@ -1,6 +1,6 @@
-import 'package:movie_house/export/export.dart';
+import 'package:lataraa_bite/export/export.dart';
 import 'package:page_indicator/page_indicator.dart';
-import 'package:movie_house/common/utills.dart';
+import 'package:lataraa_bite/common/utills.dart';
 
 class Slide extends StatelessWidget {
   //total number of slide (+-) after filter

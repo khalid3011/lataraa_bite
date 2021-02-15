@@ -1,5 +1,5 @@
-import 'package:movie_house/export/export.dart';
-import 'package:movie_house/screen/people_details/people_details_screen.dart';
+import 'package:lataraa_bite/export/export.dart';
+import 'package:lataraa_bite/screen/people_details/people_details_screen.dart';
 
 class PeopleSection extends StatelessWidget {
   final _sectionHeight = 116.0;

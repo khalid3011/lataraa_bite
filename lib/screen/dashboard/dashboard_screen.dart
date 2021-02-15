@@ -1,5 +1,5 @@
-import 'package:movie_house/export/export.dart';
-import 'package:movie_house/screen/account/account_screen.dart';
+import 'package:lataraa_bite/export/export.dart';
+import 'package:lataraa_bite/screen/account/account_screen.dart';
 
 import 'tab/home/home_tab.dart';
 import 'tab/movie/movie_tab.dart';

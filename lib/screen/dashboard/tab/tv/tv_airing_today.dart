@@ -1,4 +1,4 @@
-import 'package:movie_house/export/export.dart';
+import 'package:lataraa_bite/export/export.dart';
 
 class TvAiringTodaySection extends StatelessWidget {
   final double _upcomingSectionHeight = 110.0;

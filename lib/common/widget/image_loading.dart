@@ -1,5 +1,5 @@
 import 'package:cached_network_image/cached_network_image.dart';
-import 'package:movie_house/export/export.dart';
+import 'package:lataraa_bite/export/export.dart';
 
 class ImageLoading extends StatelessWidget {
   final String url;

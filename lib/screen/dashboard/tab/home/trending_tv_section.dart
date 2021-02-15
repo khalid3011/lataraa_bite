@@ -1,5 +1,5 @@
-import 'package:movie_house/export/export.dart';
-import 'package:movie_house/screen/tv_details/tv_details_screen.dart';
+import 'package:lataraa_bite/export/export.dart';
+import 'package:lataraa_bite/screen/tv_details/tv_details_screen.dart';
 
 class TrendingTvSection extends StatefulWidget {
   @override

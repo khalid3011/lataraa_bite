@@ -1,5 +1,5 @@
-import 'package:movie_house/export/export.dart';
-import 'package:movie_house/screen/movie_details/movie_details_screen.dart';
+import 'package:lataraa_bite/export/export.dart';
+import 'package:lataraa_bite/screen/movie_details/movie_details_screen.dart';
 
 class TrendingMovieSection extends StatefulWidget {
   @override

@@ -1,4 +1,4 @@
-import 'package:movie_house/export/export.dart';
+import 'package:lataraa_bite/export/export.dart';
 
 import 'movie_cast.dart';
 import 'movie_genre.dart';

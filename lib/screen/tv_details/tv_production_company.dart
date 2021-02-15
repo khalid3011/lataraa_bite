@@ -1,4 +1,4 @@
-import 'package:movie_house/export/export.dart';
+import 'package:lataraa_bite/export/export.dart';
 
 class TvProductionCompany extends StatelessWidget {
   final List<ProductionCompanies> productionCompanies;

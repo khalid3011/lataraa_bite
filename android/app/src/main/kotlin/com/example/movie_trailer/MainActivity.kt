@@ -1,4 +1,4 @@
-package com.example.movie_house
+package com.example.lataraa_bite
 
 import io.flutter.embedding.android.FlutterActivity
 

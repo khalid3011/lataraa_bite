@@ -1,5 +1,5 @@
 import 'package:flutter_rating_bar/flutter_rating_bar.dart';
-import 'package:movie_house/export/export.dart';
+import 'package:lataraa_bite/export/export.dart';
 
 class MovieFavoriteSection extends StatefulWidget {
   final MovieDetails movie;

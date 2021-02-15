@@ -1,5 +1,5 @@
-import 'package:movie_house/export/export.dart';
-import 'package:movie_house/screen/search/search_screen.dart';
+import 'package:lataraa_bite/export/export.dart';
+import 'package:lataraa_bite/screen/search/search_screen.dart';
 import 'latest_section.dart';
 import 'people_section.dart';
 import 'slide.dart';

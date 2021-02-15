@@ -1,4 +1,4 @@
-import 'package:movie_house/export/export.dart';
+import 'package:lataraa_bite/export/export.dart';
 
 import 'user_favorite_section.dart';
 import 'user_rated_section.dart';

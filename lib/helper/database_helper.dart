@@ -1,6 +1,6 @@
 import 'package:get_storage/get_storage.dart';
-import 'package:movie_house/common/keys.dart';
-import 'package:movie_house/export/export.dart';
+import 'package:lataraa_bite/common/keys.dart';
+import 'package:lataraa_bite/export/export.dart';
 
 class DatabaseHelper {
   static void write(

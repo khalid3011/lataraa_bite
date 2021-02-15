@@ -1,5 +1,5 @@
-import 'package:movie_house/export/export.dart';
-import 'package:movie_house/screen/by_genre/tv_by_genre_screen.dart';
+import 'package:lataraa_bite/export/export.dart';
+import 'package:lataraa_bite/screen/by_genre/tv_by_genre_screen.dart';
 
 class TVGenreSection extends StatelessWidget {
   final double _genreHeight = 60.0;
